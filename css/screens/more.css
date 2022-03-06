@@ -5,13 +5,14 @@
 }
 
 .icon-row__icon {
-  margin: 9px;
+  margin: 15px;
 }
 
 .more-suggestions {
   margin-top: 50px;
   border-top: var(--main-border);
-  padding: 40px 0;
+  padding-top: 40px;
+  padding-bottom: 90px;
 }
 
 .more-suggestions__title {
@@ -44,4 +45,8 @@
 .more-suggestions__icon-image i {
   font-size: 32px;
   color: white;
+}
+
+.more-suggestions__icon-text {
+  text-align: center;
 }
