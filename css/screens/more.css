@@ -5,13 +5,13 @@
 }
 
 .icon-row__icon {
-  margin: 15px;
+  margin: 9px;
 }
 
 .more-suggestions {
   margin-top: 50px;
   border-top: var(--main-border);
-  padding-top: 40px;
+  padding: 40px 0;
 }
 
 .more-suggestions__title {
