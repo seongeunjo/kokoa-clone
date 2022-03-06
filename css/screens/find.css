@@ -16,6 +16,10 @@
   font-size: 18px;
 }
 
+.open-chat {
+  padding-bottom: 90px;
+}
+
 .open-chat__header {
   display: flex;
   justify-content: space-between;
