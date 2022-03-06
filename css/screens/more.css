@@ -1,5 +1,11 @@
 .more-screen .icon-row {
-  margin: 35px;
+  margin: 25px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.icon-row__icon {
+  margin: 15px;
 }
 
 .more-suggestions {
